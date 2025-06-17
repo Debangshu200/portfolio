@@ -1,6 +1,7 @@
+#Intro
 This repository contains a personal portfolio website designed to showcase projects, skills, and professional experience. The portfolio features an interactive and modern user interface, providing visitors with an engaging way to explore your work.
 
-Key Features
+##Key Features
 
 Interactive showcase window utilizing the Parallax Effect for dynamic visual presentation
 
